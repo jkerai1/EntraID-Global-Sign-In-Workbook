@@ -7,7 +7,9 @@ Interactive Sign-ins Only for now
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https%3A%2F%2Fraw.githubusercontent.com%2Fjkerai1%2FEntraID-Global-Sign-In-Workbook%2Frefs%2Fheads%2Fmain%2Fazuredeploy.json)
 
 # Example  
-<img width="1600" height="685" alt="image" src="https://github.com/user-attachments/assets/302efdfc-5ade-4c19-8ca5-5c47bb4fbacb" />
+
+<img width="2108" height="1144" alt="image" src="https://github.com/user-attachments/assets/76d8adf9-08f6-4129-b8de-f8e1c52bb64f" />
+
 
 
 # See More  
