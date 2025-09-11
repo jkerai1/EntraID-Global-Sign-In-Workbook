@@ -4,7 +4,7 @@ Help visualize sign-ins across the globe in Entra ID using Azure Workbook and Lo
 Interactive Sign-ins Only for now  
 <Work in Progress>
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https%3A%2F%2Fraw.githubusercontent.com%2Fjkerai1%2FEntraID-Global-Sign-In-Workbook%2Frefs%2Fheads%2Fmain%2Fazuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjkerai1%2FEntraID-Global-Sign-In-Workbook%2Frefs%2Fheads%2Fmain%2Fazuredeploy.json)
 
 # Example  
 
